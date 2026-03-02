@@ -4,13 +4,13 @@ goal: Crea e organizza facilmente una community Bitcoin nella tua zona
 objectives:
 - Creare una community e/o un incontro Bitcoin
 - Costruire un'identità visiva e digitale per la tua community
-- Stabilire obiettivi annuali per la propria community
+- Stabilire obiettivi annuali per la tua community
 - Lanciare progetti e iniziative con la tua community
 - Comprendere l'importanza di anticipare l'evoluzione futura di una community
 ---
 # Il primo passo verso l'adozione di Bitcoin
 
-Oggi, chiunque può imparare riguardo Bitcoin online, ma ciò che spesso manca è l'opportunità di incontrarsi, scambiare idee e lavorare insieme. Per colmare questa lacuna, molti Bitcoiner formano community locali, dove gli incontri danno vita a workshop, presentazioni e discussioni significative.
+Oggi, chiunque può approfondire Bitcoin online, ma ciò che spesso manca è l'opportunità di incontrarsi, scambiare idee e lavorare insieme. Per colmare questa lacuna, molti Bitcoiner formano community locali, dove gli incontri danno vita a workshop, presentazioni e discussioni significative.
 
 In BTC304, esamineremo perché la costruzione di una community è importante, esploreremo gli strumenti per creare una forte identità visiva e digitale e condivideremo progetti semplici e open-source che puoi lanciare. Considereremo anche come le iniziative locali si evolvono in community nazionali che possono contribuire a guidare un futuro iperbitcoinizzato.
 +++
@@ -77,7 +77,7 @@ La soluzione migliore per entrambe le sfide è semplice: **essere presenti nel m
 
 
 
-L'obiettivo di questo corso è quello di fornirti tutto ciò che ti serve per creare e organizzare in modo efficace una community o un meet-up Bitcoin. Che tu voglia costruire un'iniziativa locale o far crescere un gruppo online, questo corso ti guiderà passo dopo passo: dalla creazione dell'identità visiva all'organizzazione di eventi regolari e alla gestione dei canali di comunicazione.
+L'obiettivo di questo corso è quello di fornirti tutto ciò che ti serve per creare e organizzare in modo efficace una community o un meet-up Bitcoin. Che tu voglia costruire un'iniziativa locale, o far crescere un gruppo online, questo corso ti guiderà passo dopo passo: dalla creazione dell'identità visiva all'organizzazione di eventi regolari e alla gestione dei canali di comunicazione.
 
 
 
@@ -158,7 +158,7 @@ Sebbene non esista una definizione rigorosa di questi termini nell'ecosistema Bi
 Un meetup, invece, è un evento organizzato da e per questa community, con uno scopo specifico. I meetup si svolgono in genere quando la community è già consolidata.
 
 
-Per questo corso, partiamo dal presupposto che, prima di lanciare un meetup Bitcoin, abbiate già stabilito un contatto con alcune persone interessate a organizzare un evento del genere; in altre parole, la **community esiste già**.
+Per questo corso, partiamo dal presupposto che, prima di lanciare un meetup Bitcoin, abbia già stabilito un contatto con alcune persone interessate a organizzare un evento del genere; in altre parole, la **community esiste già**.
 
 
 
@@ -302,7 +302,7 @@ Tuttavia, **unire le forze spesso ha più senso che dividere community vicine e 
 In questo senso, può essere utile una semplice "regola empirica": se non c'è una community Bitcoin attiva nel raggio di 30-45 minuti da dove si vive, può valere la pena di crearne una nuova. Detto questo, sei sempre libero di fare come vuoi.
 
 
-E naturalmente, se una vecchia community si è "evoluta" in una direzione che non è più in linea con i tuoi valori, e non hai il tempo o la motivazione per "orange-pillare"(termine derivato dalla metafora di Matrix, nel caso di Bitcoin, significa entrare nel mondo di Bitcoin e scoprirne le sue verità), allora creare la tua fork è sempre un'opzione.
+E naturalmente, se una vecchia community si è "evoluta" in una direzione che non è più in linea con i tuoi valori, e non hai il tempo o la motivazione per "orange-pillare"(termine derivato dalla metafora di Matrix, nel caso di Bitcoin, significa entrare nel mondo di Bitcoin e scoprire le sue verità), allora creare la tua fork è sempre un'opzione.
 
 
 
@@ -353,13 +353,13 @@ Il tuo primo evento sarà probabilmente un meet-up. Il suo scopo principale è q
 
 
 
-Tuttavia, come vedremo più avanti in [Esempi di progetti e iniziative](https://planb.academy/courses/1c643dc9-a15f-4f9e-93b6-cb3c58b4ee35/3213d87a-1998-5972-ab93-97a5769ba279), **un meeting-up può essere costruito in molti modi, con molti obiettivi:**
+Tuttavia, come vedremo più avanti in [Esempi di progetti e iniziative](https://planb.academy/courses/1c643dc9-a15f-4f9e-93b6-cb3c58b4ee35/3213d87a-1998-5972-ab93-97a5769ba279), **un meet-up può essere costruito in molti modi, con molti obiettivi:**
 
 
 
 - Combina il networking con una presentazione educativa su un concetto di Bitcoin;
 - Ospita una dimostrazione professionale delle soluzioni Bitcoin;
-- Dibattere strategie per "orange-pillare" i commercianti locali;
+- Dibattere strategie per "orange pillare" i commercianti locali;
 
 e così via.
 
@@ -473,7 +473,7 @@ La tua identità visiva: logo, colori, banner, è ciò che la gente ricorderà e
 Quando si creano account di social media e canali di comunicazione, avere un logo e un banner è un forte vantaggio. Non preoccuparti, non è necessario avere competenze professionali nel campo del design: sono disponibili strumenti gratuiti e facili da usare.
 
 
-Un ottimo punto di partenza è incorporare un simbolo o un simbolo della tua città. A Parigi, potrebbe essere la Torre Eiffel. A Lille, il campanile o la cittadella. A New York, la Statua della Libertà. A Londra, il Big Ben e così via.
+Un ottimo punto di partenza è incorporare un monumento o un simbolo della tua città. A Parigi, potrebbe essere la Torre Eiffel. A Lille, il campanile o la cittadella. A New York, la Statua della Libertà. A Londra, il Big Ben e così via.
 
 
 Da qui si può progettare un logo semplice o più dettagliato, a seconda delle preferenze.
@@ -1007,11 +1007,11 @@ Ogni community è libera di scegliere il proprio approccio, ma l'esperienza dimo
 
 
 
-- Invio di un sondaggio;
-- Invio di file (per evitare potenziali virus);
-- Invio di messaggi vocali;
-- Aggiunta di utenti (aiuta a prevenire le invasioni di bot);
-- Appuntare i messaggi;
+- Invio di un sondaggio.
+- Invio di file (per evitare potenziali virus).
+- Invio di messaggi vocali.
+- Aggiunta di utenti (aiuta a prevenire le invasioni di bot).
+- Appuntare i messaggi.
 - Modifica delle informazioni sul gruppo.
 
 
